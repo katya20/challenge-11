@@ -1,6 +1,7 @@
 .topbar-item {
   align-items: center;
-  display: inline-block;
+  color: mediumpurple;
+  display: inline;
 }
 
 .main-page-wrapper {
