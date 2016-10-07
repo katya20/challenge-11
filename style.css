@@ -1,5 +1,6 @@
 .topbar-item {
   align-items: center;
+  display: inline-block;
 }
 
 .main-page-wrapper {
