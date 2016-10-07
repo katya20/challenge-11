@@ -1,13 +1,14 @@
 .topbar-item {
-
+  align-items: center;
 }
 
 .main-page-wrapper {
   text-align: center;
-  float: left
+  
 }
 
 .main-page-list {
+  float: inherit;
   border: 3px solid black;
   width: 175px;
   height: 225px;
