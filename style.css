@@ -4,12 +4,15 @@
 
 .main-page-wrapper {
   text-align: center;
+  float: left
 }
 
 .main-page-list {
   border: 3px solid black;
   width: 175px;
-  height: 
+  height: 225px;
+  display:inline-block;
+  
 }
 
 .main-page-item {	
