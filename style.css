@@ -1,6 +1,7 @@
 .topbar-item {
   align-items: center;
   display: inline;
+  i
 }
 
 .main-page-wrapper {
@@ -9,12 +10,13 @@
 }
 
 .main-page-list {
+  margin-top: 50px;
   float: inherit;
   border: 3px solid black;
   width: 175px;
   height: 225px;
   display:inline-block;
-  
+  letter-spacing: 
 }
 
 .main-page-item {	
